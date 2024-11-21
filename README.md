@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Harshal Sonawane</h1>
 <h3 align="center">🚀💡 Passionate about Software Engineering building robust and scalable solutions that solve real-world problems and stand the test of time.🚀💡</h3>
-(img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s")
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
 
 
 - 🌱 I’m currently learning **Data Science**
